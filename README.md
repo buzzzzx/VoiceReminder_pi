@@ -1,0 +1,2 @@
+# VoiceReminder_pi
+树莓派做一个语音的定时天气预报提醒的python文件
